@@ -1,0 +1,372 @@
+[
+    {
+        "id": 1,
+        "name": "Oversize Silver Black Turban",
+        "price": "Rs 999.00",
+        "images": [
+            "images/glasses3.png"
+        ],
+        "category": "Accessories",
+        "description": "Upgrade your style with our premium sunglasses, designed to combine fashion and function. Featuring high-quality lenses and durable frames, these sunglasses offer exceptional clarity and UV protection. Available in various designs and colors, they’re the perfect accessory for any sunny day."
+    },
+    {
+        "id": 2,
+        "name": "Brown Rimless Sunglasses",
+        "price": "Rs 999.00",
+        "images": [
+           "images/glasses5.png"
+        ],
+        "category": "Accessories",
+        "description": "Upgrade your style with our premium sunglasses, designed to combine fashion and function. Featuring high-quality lenses and durable frames, these sunglasses offer exceptional clarity and UV protection. Available in various designs and colors, they’re the perfect accessory for any sunny day."
+    },
+    {
+        "id": 3,
+        "name": "Golden Bold Stylish Sunglasses",
+        "price": "Rs 999.00",
+        "images": [
+            "images/glasses4.png"
+        ],
+        "category": "Accessories",
+        "description": "Upgrade your style with our premium sunglasses, designed to combine fashion and function. Featuring high-quality lenses and durable frames, these sunglasses offer exceptional clarity and UV protection. Available in various designs and colors, they’re the perfect accessory for any sunny day."
+    },
+    {
+        "id": 34,
+        "name": "Oversize Silver Black Turban",
+        "price": "Rs 999.00",
+        "images": [
+            "images/sunglasses1.png"
+        ],
+        "category": "Accessories",
+        "description": "Upgrade your style with our premium sunglasses, designed to combine fashion and function. Featuring high-quality lenses and durable frames, these sunglasses offer exceptional clarity and UV protection. Available in various designs and colors, they’re the perfect accessory for any sunny day."
+    },
+    {
+        "id": 35,
+        "name": "Brown Rimless Sunglasses",
+        "price": "Rs 999.00",
+        "images": [
+            "images/sunglasses2.png"
+        ],
+        "category": "Accessories",
+        "description": "Upgrade your style with our premium sunglasses, designed to combine fashion and function. Featuring high-quality lenses and durable frames, these sunglasses offer exceptional clarity and UV protection. Available in various designs and colors, they’re the perfect accessory for any sunny day."
+    },
+    {
+        "id": 36,
+        "name": "Golden Bold Stylish Sunglasses",
+        "price": "Rs 999.00",
+        "images": [
+            "images/sunglasses3.png"
+        ],
+        "category": "Accessories",
+        "description": "Upgrade your style with our premium sunglasses, designed to combine fashion and function. Featuring high-quality lenses and durable frames, these sunglasses offer exceptional clarity and UV protection. Available in various designs and colors, they’re the perfect accessory for any sunny day."
+    },
+    
+    {
+        "id": 17,
+        "name": "Beige Straight Lower",
+        "price": "Rs 1299.00",
+        "images": [
+            "images/lower1.png"
+        ],
+        "category": "Straight Lower",
+        "description": "Elevate your casual wear with our straight-fit lowers, combining comfort and sleek style. Crafted from soft, durable fabric, these lowers provide a relaxed yet polished fit for any occasion. Available in multiple colors, they're the perfect addition to any modern wardrobe."
+    },
+    {
+        "id": 18,
+        "name": "Black Straight Lower",
+        "price": "Rs 1299.00",
+        "images": [
+            "images/lower2.png"
+        ],
+        "category": "Straight Lower",
+        "description": "Elevate your casual wear with our straight-fit lowers, combining comfort and sleek style. Crafted from soft, durable fabric, these lowers provide a relaxed yet polished fit for any occasion. Available in multiple colors, they're the perfect addition to any modern wardrobe."
+    },
+    {
+        "id": 19,
+        "name": "Broad Collar Classic White",
+        "price": "Rs 1499.00",
+        "images": [
+            "images/formal1.png"
+        ],
+        "category": "Formal Shirts",
+        "description": "These shirt features a regular fit that flatters all body shapes. The broad collar adds a touch of class and professionalism to your look. Versatile enough for work, events, parties, occasion or everyday wear. "
+    },
+    {
+        "id": 20,
+        "name": "Vintage Button Down Black",
+        "price": "Rs 1499.00",
+        "images": [
+            "images/formal2.png"
+        ],
+        "category": "Formal Shirts",
+        "description": "These shirt features a regular fit that flatters all body shapes. The broad collar adds a touch of class and professionalism to your look. Versatile enough for work, events, parties, occasion or everyday wear. "
+    },
+    {
+        "id": 21,
+        "name": "Vintage Button Down Cream",
+        "price": "Rs 1499.00",
+        "images": [
+            "images/formal3.png"
+        ],
+        "category": "Formal Shirts",
+        "description": "These shirt features a regular fit that flatters all body shapes. The broad collar adds a touch of class and professionalism to your look. Versatile enough for work, events, parties, occasion or everyday wear. "
+    },
+    {
+        "id": 22,
+        "name": "Rose Quartz Oversized T-shirt",
+        "price": "Rs 499.00",
+        "images": [
+            "images/oversized1.png"
+        ],
+        "category": "Oversized Tshirts",
+        "isTrending":true,
+        "description": "Upgrade your wardrobe with our oversized t-shirt, offering a perfect mix of comfort and effortless style. Made from premium, breathable fabric, this tee ensures a relaxed fit for any occasion. Available in various colors, it's the ultimate go-to for a laid-back yet trendy look."
+    },
+    {
+        "id": 23,
+        "name": "Arctic Paradise Oversized T-shirt",
+        "price": "Rs 499.00",
+        "images": [
+            "images/oversized2.png"
+        ],
+        "category": "Oversized Tshirts",
+        "isTrending": true,
+        "description": "Upgrade your wardrobe with our oversized t-shirt, offering a perfect mix of comfort and effortless style. Made from premium, breathable fabric, this tee ensures a relaxed fit for any occasion. Available in various colors, it's the ultimate go-to for a laid-back yet trendy look."
+    },
+    {
+        "id": 24,
+        "name": "Bright White Oversized T-shirt",
+        "price": "Rs 499.00",
+        "images": [
+            "images/oversized3.png"
+        ],
+        "category": "Oversized Tshirts",
+        "isTrending":true,
+        "description": "Upgrade your wardrobe with our oversized t-shirt, offering a perfect mix of comfort and effortless style. Made from premium, breathable fabric, this tee ensures a relaxed fit for any occasion. Available in various colors, it's the ultimate go-to for a laid-back yet trendy look."
+    },
+    {
+        "id": 25,
+        "name": "Onion Knitted Polo",
+        "price": "Rs 1199.00",
+        "images": [
+            "images/polo1.png"
+        ],
+        "category": "Old Money Polos",
+        "isTrending":true,
+        "description": "Embrace the summer season with confidence and elegance in our exquisite knit polo made with 100% cotton fabric and adorned with a basket wave knit pattern. Our fabric is luxuriously soft against the skin and breathable providing you with a cool feel and allowing you to breathe comfortably."
+    },
+    {
+        "id": 26,
+        "name": "Black Knitted Polo",
+        "price": "Rs 1199.00",
+        "images": [
+            "images/polo2.png"
+        ],
+        "category": "Old Money Polos",
+        "isTrending":true,
+        "description": "Embrace the summer season with confidence and elegance in our exquisite knit polo made with 100% cotton fabric and adorned with a basket wave knit pattern. Our fabric is luxuriously soft against the skin and breathable providing you with a cool feel and allowing you to breathe comfortably."
+    },
+    {
+        "id": 27,
+        "name": "Mouse Knitted Polo",
+        "price": "Rs 1199.00",
+        "images": [
+            "images/polo3.png"
+        ],
+        "category": "Old Money Polos",
+        "description": "Embrace the summer season with confidence and elegance in our exquisite knit polo made with 100% cotton fabric and adorned with a basket wave knit pattern. Our fabric is luxuriously soft against the skin and breathable providing you with a cool feel and allowing you to breathe comfortably."
+    },
+    {
+        "id": 28,
+        "name": "Brown Chestnut Shirt",
+        "price": "Rs 1999.00",
+        "images": [
+            "images/checked1.png"
+        ],
+        "category": "Checked Shirts",
+        "description": "Elevate your style with our Checked Shirt. Made with 100% cotton, it's breathable and comfortable for all-day wear. The button down collar and double flap pockets add a touch of class to this timeless and fashionable checked shirt. Elevate your style with confidence."
+    },
+    {
+        "id": 29,
+        "name": "Olive Blue Shirt",
+        "price": "Rs 1999.00",
+        "images": [
+            "images/checked2.png"
+        ],
+        "category": "Checked Shirts",
+        "isTrending": true,
+        "description": "Elevate your style with our Checked Shirt. Made with 100% cotton, it's breathable and comfortable for all-day wear. The button down collar and double flap pockets add a touch of class to this timeless and fashionable checked shirt. Elevate your style with confidence."
+    },
+    {
+        "id": 30,
+        "name": "Silver Moose Shirt",
+        "price": "Rs 1999.00",
+        "images": [
+            "images/checked3.png"
+        ],
+        "category": "Checked Shirts",
+        "description": "Elevate your style with our Checked Shirt. Made with 100% cotton, it's breathable and comfortable for all-day wear. The button down collar and double flap pockets add a touch of class to this timeless and fashionable checked shirt. Elevate your style with confidence."
+    },
+    {
+        "id": 31,
+        "name": "Beige White Cuban Shirt",
+        "price": "Rs 1499.00",
+        "images": [
+            "images/cuban2.png"
+        ],
+        "category": "Checked Shirts",
+        "description": "Stay cool and stylish this summer with our 100% cotton Cuban Shirt. Made with breathable and comfortable fabric. The comfort fit ensures maximum comfort for all-day wear. Expertly designed for your comfort and style needs."
+    },
+    {
+        "id": 32,
+        "name": "Cloudy Grey Cuban Shirt",
+        "price": "Rs 1499.00",
+        "images": [
+            "images/cuban.jpg"
+        ],
+        "category": "Checked Shirts",
+        "description": "Stay cool and stylish this summer with our 100% cotton Cuban Shirt. Made with breathable and comfortable fabric. The comfort fit ensures maximum comfort for all-day wear. Expertly designed for your comfort and style needs."
+    },
+    {
+        "id": 33,
+        "name": "Grey White Cuban Shirt",
+        "price": "Rs 1499.00",
+        "images": [
+            "images/cuban3.png"
+        ],
+        "isTrending":true,
+        "category": "Checked Shirts",
+        "description": "Stay cool and stylish this summer with our 100% cotton Cuban Shirt. Made with breathable and comfortable fabric. The comfort fit ensures maximum comfort for all-day wear. Expertly designed for your comfort and style needs."
+    },
+    {
+        "id": 16,
+        "name": "Navy White Cuban Shirt",
+        "price": "Rs 1499.00",
+        "images": [
+            "images/cuban4.png"
+        ],
+        "category": "Checked Shirts",
+        "isTrending":true,
+        "description": "Stay cool and stylish this summer with our 100% cotton Cuban Shirt. Made with breathable and comfortable fabric. The comfort fit ensures maximum comfort for all-day wear. Expertly designed for your comfort and style needs."
+    },
+    {
+        "id": 4,
+        "name": "Pure Silk Grey Ascot",
+        "price": "Rs 299.00",
+        "images": [
+            "images/ascot1.png"
+        ],
+        "category": "Accessories",
+        "description": "Elevate your style with our elegant ascots, the perfect accessory for a touch of classic sophistication. Crafted from luxurious fabrics, these ascots offer a refined and polished look for any occasion. Available in a range of colors and patterns, they're ideal for adding a distinctive flair to your wardrobe."
+    },
+    {
+        "id": 5,
+        "name": "Pure Silk Black Paisley Ascot",
+        "price": "Rs 299.00",
+        "images": [
+            "images/ascot2.png"
+        ],
+        "category": "Accessories",
+        "description": "Elevate your style with our elegant ascots, the perfect accessory for a touch of classic sophistication. Crafted from luxurious fabrics, these ascots offer a refined and polished look for any occasion. Available in a range of colors and patterns, they're ideal for adding a distinctive flair to your wardrobe."
+    },
+    {
+        "id": 6,
+        "name": "Pure Silk Maroon Ascot",
+        "price": "Rs 299.00",
+        "images": [
+            "images/ascot3.png"
+        ],
+        "category": "Accessories",
+        "description": "Elevate your style with our elegant ascots, the perfect accessory for a touch of classic sophistication. Crafted from luxurious fabrics, these ascots offer a refined and polished look for any occasion. Available in a range of colors and patterns, they're ideal for adding a distinctive flair to your wardrobe."
+    },
+    {
+        "id": 7,
+        "name": "Premium Silk Red Paisley Pocket Square",
+        "price": "Rs 299.00",
+        "images": [
+            "images/pocketsquare1.png"
+        ],
+        "category": "Accessories",
+        "description": "Add a dash of sophistication to your attire with our pocket squares, the perfect accessory for a refined look. Crafted from premium fabrics, these pocket squares offer a stylish touch to any suit or blazer. Available in various patterns and colors, they’re ideal for elevating both formal and casual outfits."
+    },
+    {
+        "id": 8,
+        "name": "Pure Silk Gold Brown Print Pocket Square",
+        "price": "Rs 299.00",
+        "images": [
+            "images/pocketsquare2.png"
+        ],
+        "category":"Accessories",
+        "description": "Add a dash of sophistication to your attire with our pocket squares, the perfect accessory for a refined look. Crafted from premium fabrics, these pocket squares offer a stylish touch to any suit or blazer. Available in various patterns and colors, they’re ideal for elevating both formal and casual outfits."
+    },
+    {
+        "id": 9,
+        "name": "Pure Silk Rust Print Pocket Square",
+        "price": "Rs 299.00",
+        "images": [
+            "images/pocketsquare3.png"
+        ],
+        "category": "Accessories",
+        "description": "Add a dash of sophistication to your attire with our pocket squares, the perfect accessory for a refined look. Crafted from premium fabrics, these pocket squares offer a stylish touch to any suit or blazer. Available in various patterns and colors, they’re ideal for elevating both formal and casual outfits."
+    },
+    {
+        "id": 10,
+        "name": "Black Chelsea Boots",
+        "price": "Rs 4599.00",
+        "images": [
+            "images/chelsea1.png"
+        ],
+        "category": "Chelsea Boots",
+        "description": "Step up your footwear game with our Chelsea boots, offering a seamless blend of style and comfort. Made from premium materials, these boots feature a sleek, timeless design perfect for any occasion. Versatile and durable, they’re a must-have addition to your wardrobe."
+    },
+    {
+        "id": 11,
+        "name": "Tan Chelsea Boots",
+        "price": "Rs 4599.00",
+        "images": [
+            "images/chelsea2.png"
+        ],
+        "category": "Chelsea Boots",
+        "description": "Step up your footwear game with our Chelsea boots, offering a seamless blend of style and comfort. Made from premium materials, these boots feature a sleek, timeless design perfect for any occasion. Versatile and durable, they’re a must-have addition to your wardrobe."
+    },
+    {
+        "id": 12,
+        "name": "Brown Chelsea Boots",
+        "price": "Rs 4599.00",
+        "images": [
+            "images/chelsea3.png"
+        ],
+        "category": "Chelsea Boots",
+        "description": "Step up your footwear game with our Chelsea boots, offering a seamless blend of style and comfort. Made from premium materials, these boots feature a sleek, timeless design perfect for any occasion. Versatile and durable, they’re a must-have addition to your wardrobe."
+    },
+    {
+        "id": 13,
+        "name": "Vintage Burgundy 4 Inches Micro Silk Set",
+        "price": "Rs 399.00",
+        "images": [
+            "images/tie1.png"
+        ],
+        "category": "Accessories",
+        "description": "Complete your look with our stylish tie Accessories, designed to add a touch of elegance to any outfit. Crafted with precision and high-quality materials, these Accessories enhance your ensemble with a refined finish. Available in various styles, they’re the perfect accent for both formal and casual occasions."
+    },
+    {
+        "id": 14,
+        "name": "Classic Grey Striped Micro Silk Set",
+        "price": "Rs 399.00",
+        "images": [
+            "images/tie2.png"
+        ],
+        "category": "Accessories",
+        "description": "Complete your look with our stylish tie Accessories, designed to add a touch of elegance to any outfit. Crafted with precision and high-quality materials, these Accessories enhance your ensemble with a refined finish. Available in various styles, they’re the perfect accent for both formal and casual occasions."
+    },
+    {
+        "id": 15,
+        "name": "Classic Cream Blue Plaid Micro Silk Set",
+        "price": "Rs 399.00",
+        "images": [
+            "images/tie3.png"
+        ],
+        "category": "Accessories",
+        "description": "Complete your look with our stylish tie Accessories, designed to add a touch of elegance to any outfit. Crafted with precision and high-quality materials, these Accessories enhance your ensemble with a refined finish. Available in various styles, they’re the perfect accent for both formal and casual occasions."
+    }
+   
+]
