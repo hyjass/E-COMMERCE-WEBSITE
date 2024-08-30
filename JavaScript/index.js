@@ -61,7 +61,7 @@ function playSlider() {
             currentSlide = 1;
         }
         theChecker();
-    }, 3000);
+    }, 1500);
 }
 
 async function getTrendingProducts() {
